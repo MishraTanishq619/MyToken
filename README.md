@@ -44,7 +44,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the function.
 
 Authors
-FunnyCoder20 (https://github.com/FunnyCoder20)
+FunnyCoder20 (https://github.com/MishraTanishq619)
 
 License
 This project is licensed under the MIT- see the LICENSE.md file for details
